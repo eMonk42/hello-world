@@ -1,5 +1,7 @@
 # Personal Manual
 
+new stuffff!!!!
+
 ### User Manual for LukOSv2.8
 
 My Friends call me: Lukas
