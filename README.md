@@ -2,45 +2,11 @@
 
 ### User Manual for LukOSv2.8
 
-My Friends call me: Lukas
-
-<!--img src="./image.png" style="border-radius: 300px; width: 150px;" alt="hamster"-->
-<br />
-<br />
-<br />
-
-## Things I like &#128512;: 
-- Animals
-- Natur
-- Computer Games
-- Movies
-- Reading books
-- tinkering
-
-## Things I don't like: 
-+ Tomatoes
-+ Pineapples
-+ overly selfinterested people
-
-## Things I wish for: 
-1. tolerance
-2. more RAM
-3. [visiting the rainforests](http://example.com/) &#9992;
-
-## If I'm sad, treat me with a: 
-    hot chocolate and room for being myself till my mood switches
-
-## Human Languages I speak:
-    german, english
-
 ## My favorite electronic device:
 my Laptop &#128187;
 
 ## Preferred working hours:
 9-12am, 2-8pm but not all at once ;P
-
-## Preferred ways to receive feedback: 
-personally and without hesitation
 
 ## To start my system in the morning I need:
 * actually no coffee at all
