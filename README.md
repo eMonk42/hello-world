@@ -1,6 +1,6 @@
 # Personal Manual
 
-new stuffff!!!!
+new stuffff!!!!!
 
 ### User Manual for LukOSv2.8
 
