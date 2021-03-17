@@ -3,9 +3,6 @@
 ### User Manual for LukOSv2.8
 
 My Friends call me: Lukas
-<br />
-<br />
-Born: 12.01.1993
 
 <!--img src="./image.png" style="border-radius: 300px; width: 150px;" alt="hamster"-->
 <br />
