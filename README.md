@@ -37,7 +37,7 @@ My Friends call me: Lukas
 my Laptop &#128187;
 
 ## Preferred working hours:
-9-12am, 14-20am but not all at once ;P
+9-12am, 2-8pm but not all at once ;P
 
 ## Preferred ways to receive feedback: 
 personally and without hesitation
